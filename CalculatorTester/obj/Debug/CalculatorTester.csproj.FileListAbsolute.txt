@@ -1,0 +1,17 @@
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\bin\Debug\CalculatorTester.dll
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\bin\Debug\CalculatorTester.pdb
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\bin\Debug\CalcualtorVS2019.exe
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\bin\Debug\CalcualtorVS2019.pdb
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\bin\Debug\CalcualtorVS2019.exe.config
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\obj\Debug\CalculatorTester.csproj.AssemblyReference.cache
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\obj\Debug\CalculatorTester.csproj.CoreCompileInputs.cache
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\obj\Debug\CalculatorTester.csproj.CopyComplete
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\obj\Debug\CalculatorTester.dll
+D:\DucAnhNTT\CalcualtorVS2019\CalculatorTester\obj\Debug\CalculatorTester.pdb
