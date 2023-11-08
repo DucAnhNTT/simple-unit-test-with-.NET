@@ -1,0 +1,10 @@
+D:\DucAnhNTT\CalcualtorVS2019\CalcualtorVS2019\bin\Debug\CalcualtorVS2019.exe.config
+D:\DucAnhNTT\CalcualtorVS2019\CalcualtorVS2019\bin\Debug\CalcualtorVS2019.exe
+D:\DucAnhNTT\CalcualtorVS2019\CalcualtorVS2019\bin\Debug\CalcualtorVS2019.pdb
+D:\DucAnhNTT\CalcualtorVS2019\CalcualtorVS2019\obj\Debug\CalcualtorVS2019.csproj.AssemblyReference.cache
+D:\DucAnhNTT\CalcualtorVS2019\CalcualtorVS2019\obj\Debug\CalcualtorVS2019.Form1.resources
+D:\DucAnhNTT\CalcualtorVS2019\CalcualtorVS2019\obj\Debug\CalcualtorVS2019.Properties.Resources.resources
+D:\DucAnhNTT\CalcualtorVS2019\CalcualtorVS2019\obj\Debug\CalcualtorVS2019.csproj.GenerateResource.cache
+D:\DucAnhNTT\CalcualtorVS2019\CalcualtorVS2019\obj\Debug\CalcualtorVS2019.csproj.CoreCompileInputs.cache
+D:\DucAnhNTT\CalcualtorVS2019\CalcualtorVS2019\obj\Debug\CalcualtorVS2019.exe
+D:\DucAnhNTT\CalcualtorVS2019\CalcualtorVS2019\obj\Debug\CalcualtorVS2019.pdb
