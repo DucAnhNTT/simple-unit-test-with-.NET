@@ -12,7 +12,7 @@ These instructions will help you get a copy of the project up and running on you
 ## Prerequisites
 1. Visual Studio or any other C# .NET development environment.
 2. Clone the Repository
-    git clone https://github.com/your-username/calculator.git
+    git clone [https://github.com/your-username/calculator.git](https://github.com/DucAnhNTT/simple-unit-test-with-.NET.git)
 ### Build and Run
 1. Open the project in your C# .NET development environment.
 2. Build the solution.
